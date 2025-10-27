@@ -1,0 +1,136 @@
+﻿Role-Based AI Literacy Framework,,
+Beginner Level Competencies,,
+,,
+LEGEND:,,
+(A) Awareness,,
+Understanding AI exists and basic concepts,,
+(B) Application,,
+Using AI tools effectively,,
+(C) Integration,,
+Managing AI strategically,,
+(E) Ethics,,
+"Risk awareness, bias, privacy, responsible use (present at ALL levels)",,
+,,
+ROLE,LEVEL,COMPETENCY
+Administrator,A,Understand how AI impacts system management and user access
+,B,Use AI-powered monitoring and automation tools effectively
+,C,Plan for AI service deployment and user provisioning
+,E,"Manage identity and access for AI systems, understand data governance"
+AI Edge Engineer,A,Understand edge computing and how AI models run on edge devices
+,B,Deploy pre-built AI models to edge environments
+,C,Design edge AI architectures that balance performance and latency
+,E,Address privacy concerns with on-device AI processing
+AI Engineer,A,"Understand ML fundamentals, model types, and AI service landscape"
+,B,"Use pre-built AI services (vision, language, speech) via APIs"
+,C,"Connect AI services to applications, handle errors and fallbacks"
+,E,"Recognize bias in models, understand responsible AI principles"
+App Maker,A,Recognize opportunities to enhance apps with AI capabilities
+,B,Integrate AI services using low-code tools and connectors
+,B,Write effective prompts for AI features in applications
+,E,"Ensure user consent for AI features, transparent AI use disclosure"
+Auditor,A,Understand how organizations are using AI and associated risks
+,B,Evaluate AI system documentation and governance controls
+,C,Assess AI-related compliance with regulations and standards
+,E,"Audit for bias, fairness, transparency, and accountability in AI systems"
+Business Analyst,A,Understand AI capabilities and how they solve business problems
+,B,"Use AI tools for data analysis, visualization, and insights"
+,B,Document requirements for AI-enhanced business processes
+,E,Consider ethical implications when recommending AI solutions
+Business Leader,A,Understand AI capabilities and limitations for strategic planning
+,C,"Make informed decisions about AI investments (build vs. buy, ROI)"
+,C,Assess strategic implications of AI for industry and workflows
+,E,"Understand risk landscape (bias, privacy, regulatory compliance)"
+Business Owner,A,Identify where AI creates competitive advantage for the business
+,B,"Use AI tools for business operations (marketing, customer service)"
+,C,Evaluate AI vendors and services for business needs
+,E,Ensure responsible AI use protects customers and brand reputation
+Business User,A,"Recognize AI in everyday business tools (copilots, assistants)"
+,B,Write effective prompts to get quality AI outputs
+,B,Critically evaluate AI-generated content before using it
+,E,"Understand when to disclose AI use, protect sensitive information"
+Data Analyst,A,Understand how AI/ML enhances data analysis workflows
+,B,Use AI-powered analytics tools for insights and visualization
+,B,Prepare data appropriately for AI/ML consumption
+,E,Recognize bias in data and AI-generated insights
+Data Engineer,A,Understand data requirements for AI/ML systems
+,B,Build data pipelines that support AI workloads
+,C,Design data architectures that enable AI at scale
+,E,Implement data governance and privacy controls for AI systems
+Data Scientist,A,Understand AI service offerings and when to use pre-built vs. custom
+,B,Use ML platforms for experimentation and model training
+,C,Implement model deployment and monitoring workflows (MLOps basics)
+,E,"Evaluate models for fairness, explainability, and bias"
+Database Administrator,A,Understand how AI workloads impact database performance
+,B,Optimize databases for AI/ML query patterns
+,B,Use AI-powered database management and tuning tools
+,E,Secure sensitive data used for AI training and inference
+Developer,A,Understand available AI services and APIs for application development
+,B,Integrate AI capabilities into applications via SDKs/APIs
+,B,"Handle AI service responses, errors, and edge cases"
+,E,"Implement responsible AI practices in code (transparency, consent)"
+DevOps Engineer,A,Understand AI/ML deployment and operations requirements
+,B,Deploy and monitor AI services in production environments
+,C,Implement CI/CD pipelines for AI/ML models (MLOps)
+,E,"Ensure AI system reliability, security, and governance in production"
+Functional Consultant,A,Identify where AI adds value to business processes
+,B,Configure AI-powered features in business applications
+,C,Design AI-enhanced solutions that meet client requirements
+,E,Advise clients on responsible AI implementation
+Higher Education Educator,A,"Understand how AI impacts teaching, learning, and academic integrity"
+,B,"Use AI tools for course design, feedback, and administrative tasks"
+,B,Detect and address AI-generated student work appropriately
+,E,Foster academic integrity while teaching responsible AI use
+K-12 Educator,A,Recognize AI in educational technology and student tools
+,B,Use AI for differentiated instruction and lesson planning
+,B,Teach age-appropriate AI literacy to students
+,E,"Protect student privacy, ensure age-appropriate AI use"
+Network Engineer,A,Understand how AI workloads impact network architecture
+,B,Optimize network for AI service traffic and latency requirements
+,B,Use AI-powered network monitoring and troubleshooting tools
+,E,Secure AI traffic and protect data in transit
+Privacy Manager,A,"Understand privacy risks specific to AI systems (data collection, inference)"
+,B,"Assess AI systems for GDPR, CCPA, and privacy compliance"
+,C,Design privacy frameworks for AI deployment
+,E,Balance AI innovation with individual privacy rights
+Risk Practitioner,A,"Identify AI-specific risks (bias, hallucinations, security vulnerabilities)"
+,B,Conduct risk assessments for AI implementations
+,C,Develop AI risk management frameworks and controls
+,E,Evaluate ethical risks and organizational AI governance
+School Leader,A,Understand AI's impact on education and school operations
+,C,Make strategic decisions about AI adoption in schools
+,C,Develop school policies for staff and student AI use
+,E,"Ensure equitable access, student privacy, and responsible AI use"
+Security Engineer,A,"Understand AI-specific security threats (prompt injection, data poisoning)"
+,B,Secure AI workloads and services in production
+,B,Use AI-powered security tools for threat detection
+,E,Balance security controls with AI innovation and user experience
+Security Operations Analyst,A,Recognize how AI enhances and creates security challenges
+,B,Use AI-powered SIEM and threat detection tools effectively
+,B,Investigate AI-related security incidents
+,E,Understand privacy implications of AI-powered monitoring
+Service Adoption Specialist,A,Understand how AI changes user experience and adoption patterns
+,B,Train users on AI-powered features and tools
+,C,Design change management strategies for AI adoption
+,E,Ensure transparent communication about AI capabilities and limitations
+Solution Architect,A,Understand AI service capabilities across cloud platforms
+,C,Design solutions that appropriately integrate AI services
+,C,Make architectural decisions about AI placement and scalability
+,E,Ensure responsible AI principles in solution design
+Startup Founder,A,Identify where AI creates competitive advantage and value
+,C,Make strategic decisions about AI investments and priorities
+,B,Use AI tools to accelerate product development and operations
+,E,Build ethical AI practices into company culture from the start
+Student,A,Understand what AI is and where it's used in daily life
+,B,Use AI tools responsibly for learning (not cheating)
+,B,Critically evaluate AI-generated information
+,E,Understand academic integrity and appropriate AI use
+Support Engineer,A,Recognize AI in support tools and customer-facing systems
+,B,Troubleshoot AI service issues and outages
+,B,Use AI-powered support tools for faster resolution
+,E,Protect customer data when working with AI systems
+Technology Manager,A,Understand AI's impact on team workflows and technology strategy
+,C,Make decisions about AI tool adoption and team enablement
+,C,Manage AI-related budgets and vendor relationships
+,E,Ensure team uses AI responsibly and in compliance with policies
+,,
+Framework Version 1.0 | Created by Claude (Anthropic) in collaboration with Suzanne Margolis | October 2025,,
