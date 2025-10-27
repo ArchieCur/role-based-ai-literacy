@@ -1,0 +1,163 @@
+Role-Based AI Literacy Framework
+Methodology and Design Rationale
+Created by: Claude (Anthropic AI Assistant)
+In collaboration with: Suzanne Margolis
+Executive Summary
+This document explains the conceptual framework and methodology used to create a role-based AI literacy competency map for 30 professional roles. The framework challenges the conventional "one-size-fits-all" approach to AI training by demonstrating that AI literacy is a spectrum of role-specific competencies, not a single subject.
+Key Innovation: Rather than providing generic AI training recommendations, this framework maps specific competencies to individual roles based on how they will actually interact with, use, or govern AI systems in their work.
+1. The Problem We're Solving
+Current State of AI Literacy Training
+Most organizations approach AI literacy as if everyone needs the same foundational knowledge:
+●	• "Everyone should take AI 101"
+●	• Generic workshops on "What is AI?"
+●	• Overwhelming catalogs of hundreds of disconnected modules
+●	• Vendor platforms offering product training disguised as literacy
+The Reality: A Business Leader doesn't need to understand neural network architectures. A Data Scientist doesn't need generic "cloud strategy" overviews. A K-12 Educator doesn't need certification prep courses.
+The Gap: No widely recognized framework exists that maps AI literacy needs to specific professional roles at a granular, actionable level.
+2. Framework Foundation
+Alignment with Existing Frameworks
+Rather than creating an entirely new taxonomy, this framework synthesizes and builds upon three established AI literacy frameworks:
+EU/OECD AI Literacy Framework (AILit)
+●	Four domains: Engaging with AI, Creating with AI, Managing AI, Designing AI
+●	Focus on knowledge, skills, and attitudes for responsible AI engagement
+Barnard College Framework
+●	Four-level pyramid: Understanding, Using, Applying, Creating
+●	Scaffolded approach that builds complexity progressively
+Stanford Teaching Commons Framework
+●	Four intersecting domains: Functional, Ethical, Rhetorical, Pedagogical
+●	Human-centered values as foundation
+Our Synthesis: Four Competency Levels
+(A) Awareness - Understanding that AI exists, basic concepts, where it's used
+●	Maps to: "Engaging with AI" (EU/OECD), "Understanding" (Barnard), "Functional literacy" (Stanford)
+●	Example: Recognize AI tools, understand basic capabilities and limitations, know when AI is being used
+(B) Application - Using AI tools effectively in your work, evaluating outputs
+●	Maps to: "Using/Applying" (Barnard), "Rhetorical literacy" (Stanford)
+●	Example: Write effective prompts, critically evaluate AI outputs, choose appropriate tools for tasks
+(C) Integration - Managing AI within workflows, making strategic decisions about AI adoption
+●	Maps to: "Managing AI" (EU/OECD), "Creating with AI" hybrid
+●	Example: Design AI-enhanced workflows, assess ROI, implement governance, train others
+(E) Ethics - Cross-cutting dimension present at all levels
+●	Maps to: "Ethical literacy" (Stanford), Responsible AI principles (EU/OECD)
+●	Example: Risk awareness, bias, privacy, responsible use, compliance
+●	Note: Ethics is not a separate level but embedded in every competency
+3. Methodology: How Competencies Were Mapped
+Step 1: Role Analysis
+For each of the 30 roles, I analyzed:
+●	How does this role interact with AI? (Consumer, implementer, decision-maker, governor?)
+●	What decisions does this role make about AI? (Technical, strategic, pedagogical, ethical?)
+●	What are the consequences of AI misuse in this role? (Security breach, student harm, business loss, compliance violation?)
+●	What level of technical depth is appropriate? (Conceptual understanding vs. hands-on implementation)
+Step 2: Competency Selection
+For each role, I identified 3-5 competencies by asking:
+●	Necessity: What must this person know to do their job safely and effectively in an AI-augmented world?
+●	Immediacy: What do they need to know this week, not six months from now?
+●	Relevance: Is this directly applicable to their daily work, or is it generic knowledge?
+●	Specificity: Does this distinguish their needs from other roles, or could anyone benefit from this?
+Step 3: Level Assignment
+Each competency was tagged with a level designation (A/B/C/E) based on:
+●	Primary Action: Does this role primarily UNDERSTAND (A), USE (B), or DECIDE (C) about AI?
+●	Depth Required: Surface awareness, practical skill, or strategic thinking?
+●	Accountability: Are they accountable for outcomes, or just execution?
+●	Ethics Integration: Every role received at least one (E) Ethics competency reflecting their unique ethical responsibilities
+4. Key Design Principles
+Principle 1: Beginner Focus
+All competencies assume no prior AI or technical knowledge. This is "Week One" literacy - what people need to get started safely and effectively. Intermediate and advanced levels can be layered later once the foundation exists.
+Principle 2: Role Differentiation Over Comprehensiveness
+The goal was not to create exhaustive competency lists, but to highlight how dramatically different roles require different knowledge. A Business Leader and an AI Engineer both need "AI literacy," but the content, depth, and application are completely different.
+Principle 3: Action-Oriented Competencies
+Each competency is written as an actionable skill or understanding, not abstract theory. Instead of "Know about AI bias," it's "Recognize bias in models and ensure fairness in data." This makes the competencies immediately applicable and measurable.
+Principle 4: Ethics as Cross-Cutting
+Rather than treating ethics as an optional add-on, every role includes ethical considerations specific to their context. A Security Engineer's ethics focus (protecting customer data) looks completely different from a K-12 Educator's ethics focus (student privacy and age-appropriate use).
+Principle 5: "Doers vs. Deciders" Distinction
+A critical pattern emerged during mapping: some roles primarily DO (implement, use, execute) while others primarily DECIDE (strategize, govern, evaluate). This fundamentally shapes their competency needs:
+●	Doers (Engineers, Developers, Analysts): Heavy on (B) Application - hands-on skills
+●	Deciders (Leaders, Managers, Auditors): Heavy on (C) Integration - strategic thinking
+●	Hybrid Roles (Educators, Consultants): Need both - they use AI AND make decisions about its use
+5. Observed Patterns by Role Type
+After mapping all 30 roles, clear patterns emerged that validate the role-based approach:
+Technical Implementers (Engineers, Developers, Database Administrators)
+●	Heavy emphasis on (B) Application competencies
+●	Need practical integration skills (C)
+●	Ethics focus: Technical ethics (security, privacy, reliability)
+●	Example: AI Engineer needs to "Use pre-built AI services via APIs" and "Connect AI services to applications"
+Business and Strategic Roles (Leaders, Owners, Managers)
+●	Heavy emphasis on (C) Integration competencies
+●	Need conceptual understanding (A) without deep technical detail
+●	Ethics focus: Strategic risk (compliance, brand reputation, business impact)
+●	Example: Business Leader needs to "Make informed decisions about AI investments" and "Assess strategic implications for industry"
+Education Roles (K-12 Educators, Higher Ed Educators, School Leaders)
+●	Unique blend: Must USE AI (B) AND teach about it
+●	Strong ethics focus (E) around student welfare
+●	Need pedagogical application skills specific to age groups
+●	Example: K-12 Educator needs to "Teach age-appropriate AI literacy to students" and "Protect student privacy"
+Governance and Risk Roles (Auditor, Privacy Manager, Risk Practitioner)
+●	Heavy emphasis on (E) Ethics - this IS their core work
+●	Need assessment and evaluation skills (B)
+●	Must understand enough to govern (A) without necessarily implementing
+●	Example: Auditor needs to "Evaluate AI system documentation and governance controls" and "Audit for bias, fairness, and accountability"
+Data Professionals (Data Analyst, Data Engineer, Data Scientist)
+●	Progressive technical depth (Analyst → Engineer → Scientist)
+●	All need data ethics (E) as foundational
+●	Focus on data as fuel for AI systems
+●	Example: Data Scientist needs "MLOps basics for model deployment" while Data Analyst needs "Use AI-powered analytics tools"
+6. What This Framework Reveals
+Finding 1: Role Specificity is Real and Necessary
+Even at the beginner level, what people need to know varies dramatically by role. The same "Introduction to AI" module is not appropriate for a Business Leader and a DevOps Engineer. Their questions, use cases, and accountability are completely different.
+Finding 2: Ethics Cannot Be Separated
+Every single role has ethical considerations - but those considerations look different for each role. A K-12 Educator worries about student privacy and age-appropriate use. A Security Engineer worries about data poisoning and prompt injection attacks. Ethics must be contextualized, not taught generically.
+Finding 3: The Vendor Training Gap
+When attempting to map Microsoft Learn modules to these competencies, significant gaps emerged. Vendor training platforms are optimized for product adoption, not critical decision-making. Strategic competencies like "Make build vs. buy decisions" or "Understand AI limitations and when not to use AI" are often absent because they don't drive product sales.
+Finding 4: Overlap Exists But Context Differs
+Multiple roles might need "prompt engineering" skills, but the application context is completely different. A Business User writes prompts to generate meeting summaries. A Data Scientist writes prompts to extract insights from datasets. An Educator writes prompts to create lesson plans. Same skill, radically different application.
+7. Recommendations for Implementation
+For Organizations:
+●	Map your workforce to the 30 roles (or similar role categories)
+●	Use the competency framework to create role-specific learning paths, not generic "AI for everyone" programs
+●	Prioritize beginner-level literacy across all roles before investing in advanced training
+●	Recognize that vendor training alone will not provide complete AI literacy - supplement with vendor-neutral strategic content
+For Training Developers:
+●	Use the A/B/C/E taxonomy to create reusable content blocks that can be mixed and matched for different roles
+●	Develop role-specific scenarios and examples rather than generic demonstrations
+●	Create "choose your own adventure" learning paths where users select their role and receive customized content
+For Individuals:
+●	Find your role in the framework and focus on those specific competencies first
+●	Recognize that you don't need to know everything about AI - you need to know what's relevant to your work
+●	As you grow, look at competencies for adjacent roles to understand collaboration points
+8. Limitations and Future Work
+Current Limitations:
+●	Beginner level only - intermediate and advanced progressions need development
+●	30 roles is a sample, not comprehensive coverage of all professional roles
+●	Some role overlap and redundancy exists (e.g., Business Leader vs. Business Owner)
+●	Framework is vendor-neutral but validation against actual training catalogs (Microsoft Learn, Coursera, etc.) is incomplete
+Future Development Opportunities:
+●	Expand to intermediate and advanced competency levels
+●	Add industry-specific variations (healthcare AI literacy, financial services AI literacy, etc.)
+●	Create assessment tools to measure competency achievement
+●	Develop role transition maps (e.g., "If you're moving from Business Analyst to Data Analyst, here are the new competencies you need")
+●	Partner with training providers to create actual curriculum that maps to this framework
+9. Conclusion
+This framework demonstrates that AI literacy is not a single subject but a spectrum of role-specific competencies. The conventional approach of "everyone takes AI 101" fails because it treats AI literacy as universal knowledge rather than contextual expertise.
+By mapping specific competencies to individual roles, this framework provides:
+●	A vocabulary for discussing role-based AI literacy needs
+●	A structure for designing targeted, actionable training
+●	Evidence that one-size-fits-all AI training is insufficient
+●	A foundation for creating reusable, composable learning content
+Most importantly, this framework shifts the conversation from "What is AI literacy?" to "What AI literacy does this specific role need?"
+That shift - from generic to specific, from universal to contextual - is the key to actually equipping people with the knowledge and skills they need to thrive in an AI-augmented world.
+About the Creator
+Claude is an AI assistant created by Anthropic. This framework was developed through conversational collaboration, leveraging Claude's ability to:
+●	Synthesize information from multiple academic and industry frameworks
+●	Analyze patterns across diverse professional roles
+●	Map abstract competencies to concrete, actionable skills
+●	Identify gaps and inconsistencies in existing training approaches
+The irony that an AI tool helped create a framework for teaching humans about AI is not lost on us. In fact, it reinforces a key insight: AI should be used to solve AI-related problems, including the challenge of AI literacy itself.
+This work represents human-AI collaboration at its best - combining human vision and strategic thinking with AI's pattern recognition and synthesis capabilities.
+Acknowledgments
+This framework was developed in collaboration with [Your Name], who provided:
+●	The original insight that AI literacy is role-specific, not universal
+●	The challenge to existing "vanilla training" approaches
+●	The vision for a practical, actionable framework rather than another abstract taxonomy
+●	Validation and refinement throughout the development process
+Additional acknowledgment to the developers of the EU/OECD AILit Framework, Barnard College's AI Literacy Framework, and Stanford's Teaching Commons Framework, whose work provided the foundational structure this framework builds upon.
+For Questions or Collaboration
+srdexcel@gmail.con
