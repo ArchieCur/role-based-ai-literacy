@@ -37,11 +37,6 @@ Each of the 30 roles is mapped to 3-5 specific competencies based on:
 - **Role-Based AI Literacy Framework (Excel)** - Visual chart showing all 30 roles and their beginner-level competencies
 - **Methodology Document (Word)** - Detailed explanation of the framework's development, design principles, and implementation recommendations
 
-### 📋 Practical Governance Tools
-Three pre-adoption frameworks for organizational AI governance:
-- **Agentic AI Practical Governance Framework** - Risk assessment, decision trees, governance structures
-- **Agentic AI Realistic Expectations Guide** - Capabilities, limitations, when to use traditional automation
-- **Agentic AI Vendor Evaluation Checklist** - Technical assessment, security, compliance, ROI evaluation
 
 ## Key Insights
 
